@@ -1,7 +1,7 @@
 # NYC Data Science January 6 Cohort
 
 
-This repository contains all lectures for the April 24th 2023 Data Science Cohort.
+This repository contains all lectures for the January 6th 2025 Data Science Cohort.
 
 ### Setting up your lecture repo
 
@@ -25,18 +25,18 @@ If not, type: git remote add origin main <forked_git_repo_address>
 
 When lectures are added, you will need to be able to get updates from the main lecture repository (i.e. what is on admveen) and update your fork and local repository. We thus need to add another remote repository which will point to the location where the instructional team will add lectures. It is customary to denote the alias to this original repository as **upstream**.
 
-git remote add upstream git@github.com:admveen/NYC_DS_112023.git
+git remote add upstream git@github.com:admveen/NYC_DS_010625.git
 
 If you have done this correctly, then you will see the following upon enter "git remote -v" in your terminal
 
 
-origin  https://github.com/your_user_name/NYC_DS_082624.git (fetch)
+origin  https://github.com/your_user_name/NYC_DS_010625.git (fetch)
 
-origin  https://github.com/your_user_name/NYC_DS_082624.git (push)
+origin  https://github.com/your_user_name/NYC_DS_010625.git (push)
 
-upstream  https://github.com/admveen/NYC_DS_082624.git (fetch)
+upstream  https://github.com/admveen/NYC_DS_010625.git (fetch)
 
-upstream  https://github.com/admveen/NYC_DS_082624.git (push)
+upstream  https://github.com/admveen/NYC_DS_010625.git (push)
 
 ### Getting new lectures (updates from the upstream)
 
